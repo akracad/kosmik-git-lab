@@ -1,6 +1,2 @@
 Hello From mac machine
-Hello from Win Machine from Vams
-
-
-
-i
+Hello from Win Machine from Vamsi
